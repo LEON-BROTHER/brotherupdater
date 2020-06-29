@@ -1,0 +1,41 @@
+{
+	"BrotherRetro": [
+		{
+			"file": "br.json",
+			"includePrerelease": true,
+			"message": "Updating",
+			"output": "/3ds/Universal-Updater/scripts/br.json",
+			"repo": "LEON-BROTHER/brotherretro",
+			"type": "downloadRelease"
+		}
+	],
+	"Brotherbrew": [
+		{
+			"file": "brotherbrew.json",
+			"includePrerelease": true,
+			"message": "Updating...",
+			"output": "/3ds/Universal-Updater/scripts/brotherbrew.json",
+			"repo": "LEON-BROTHER/brotherbrew",
+			"type": "downloadRelease"
+		}
+	],
+
+	"Update Updater": [
+		{
+			"file": "bu.json",
+			"includePrerelease": true,
+			"message": "Updating...",
+			"output": "/3ds/Universal-Updater/scripts/bu.json",
+			"repo": "LEON-BROTHER/brotherupdater",
+			"type": "downloadRelease"
+		}
+	],
+	"info": {
+		"author": "LEON_BROTHER",
+		"description": "",
+		"revision": 1,
+		"shortDesc": "Updater for BrotherRetro ,BrotherBrew and the Updater",
+		"title": "Brother-Updater",
+		"version": 3
+	}
+}
